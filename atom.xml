@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sunhwee.com/"/>
-  <updated>2020-04-08T07:29:39.275Z</updated>
+  <updated>2020-04-08T10:14:39.436Z</updated>
   <id>https://sunhwee.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://sunhwee.com/2020/04/05/hello-world/"/>
-    <id>https://sunhwee.com/2020/04/05/hello-world/</id>
-    <published>2020-04-05T13:06:30.000Z</published>
-    <updated>2020-04-08T07:29:39.275Z</updated>
+    <title>我的简历</title>
+    <link href="https://sunhwee.com/2020/04/08/myresume/"/>
+    <id>https://sunhwee.com/2020/04/08/myresume/</id>
+    <published>2020-04-08T09:55:29.000Z</published>
+    <updated>2020-04-08T10:14:39.436Z</updated>
     
     <summary type="html">
     
@@ -29,20 +29,18 @@
       
         
         
-          &lt;p&gt;欢迎光临&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt; !这是你的第一篇文章。查看&lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot;
+          &lt;h1 id=&quot;联系方式&quot;&gt;&lt;a href=&quot;#联系方式&quot; class=&quot;headerlink&quot; title=&quot;联系方式&quot;&gt;&lt;/a&gt;联系方式&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;手机：18320772575&lt;/li&gt;
+&lt;li&gt;Email：&lt;a
         
       
     
     </summary>
     
-      <category term="Hexo博客搭建学习" scheme="https://sunhwee.com/categories/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%AD%A6%E4%B9%A0/"/>
+      <category term="简历" scheme="https://sunhwee.com/categories/%E7%AE%80%E5%8E%86/"/>
     
     
-      <category term="Hexo" scheme="https://sunhwee.com/tags/Hexo/"/>
-    
-      <category term="GitHub" scheme="https://sunhwee.com/tags/GitHub/"/>
-    
-      <category term="博客" scheme="https://sunhwee.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="Android" scheme="https://sunhwee.com/tags/Android/"/>
     
   </entry>
   

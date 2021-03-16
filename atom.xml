@@ -5,9 +5,9 @@
   <subtitle>A Miracle</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://sunhwee.com/"/>
-  <updated>2020-04-08T10:14:39.436Z</updated>
-  <id>https://sunhwee.com/</id>
+  <link href="https://a-miracle.github.io/"/>
+  <updated>2021-03-16T08:46:11.103Z</updated>
+  <id>https://a-miracle.github.io/</id>
   
   <author>
     <name>A Miracle</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>我的简历</title>
-    <link href="https://sunhwee.com/2020/04/08/myresume/"/>
-    <id>https://sunhwee.com/2020/04/08/myresume/</id>
-    <published>2020-04-08T09:55:29.000Z</published>
-    <updated>2020-04-08T10:14:39.436Z</updated>
+    <link href="https://a-miracle.github.io/2021/03/16/myresume/"/>
+    <id>https://a-miracle.github.io/2021/03/16/myresume/</id>
+    <published>2021-03-16T02:55:29.000Z</published>
+    <updated>2021-03-16T08:46:11.103Z</updated>
     
     <summary type="html">
     
@@ -37,10 +37,10 @@
     
     </summary>
     
-      <category term="简历" scheme="https://sunhwee.com/categories/%E7%AE%80%E5%8E%86/"/>
+      <category term="简历" scheme="https://a-miracle.github.io/categories/%E7%AE%80%E5%8E%86/"/>
     
     
-      <category term="Android" scheme="https://sunhwee.com/tags/Android/"/>
+      <category term="Android" scheme="https://a-miracle.github.io/tags/Android/"/>
     
   </entry>
   
